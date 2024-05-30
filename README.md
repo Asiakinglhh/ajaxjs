@@ -1,4 +1,4 @@
-# readysState
+# readyState
 
 字典值 | 状态 | 含义
 -- | -- | --
